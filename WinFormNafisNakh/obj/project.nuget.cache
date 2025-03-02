@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "kI0See6HhsaPU+aaNNIEsyr9IgaTDQOWg5xZviI3Bsdw9JaWqWJCWuKO0LtEOZ+EJ5ASTNjvfPMoWcBmdHLQTg==",
+  "success": true,
+  "projectFilePath": "F:\\فایل های تمرینی\\WinformNafisNakhV2\\WinFormNafisNakh\\WinFormNafisNakh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rasol\\.nuget\\packages\\md.persiandatetime\\4.5.0\\md.persiandatetime.4.5.0.nupkg.sha512",
+    "C:\\Users\\Rasol\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.2\\microsoft.win32.systemevents.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rasol\\.nuget\\packages\\system.drawing.common\\9.0.2\\system.drawing.common.9.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MD.PersianDateTime 4.5.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MD.PersianDateTime",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
